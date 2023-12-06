@@ -7,11 +7,13 @@ Aividade 01:
 
 Atividade 02:
 
+
 2. Pesquise sobre TRANSPILADOR, especificando:
+
+
 a) O que é.
 
-b) Quais suas diferenças quando comparado
-com compilador e tradutor.
+b) Quais suas diferenças quando comparado com compilador e tradutor.
 
 c) Qual sua utilidade.
 
